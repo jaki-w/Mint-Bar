@@ -10,4 +10,11 @@ h1 {
 p {
   color: white;
   text-align: center;
+  font-size: 18px;
+}
+
+.well {
+  background-color: #1d5424;
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
