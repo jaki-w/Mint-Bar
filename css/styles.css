@@ -1,10 +1,12 @@
 body {
   background-color: black;
 }
-h1 {
+h2 {
   text-align: center;
   color: white;
   font-family: monospace;
+  margin: 30px;
+  border: 15px;
 }
 
 p {
@@ -14,7 +16,13 @@ p {
 }
 
 .well {
-  background-color: #1d5424;
-  padding-top: 60px;
-  padding-bottom: 60px;
+  background-color: #96c91e;
+  padding-top: 48px;
+  padding-bottom: 48px;
+  margin-right: 30px;
+  border-width: thick;
+}
+
+#feature-photos {
+  margin-left: 30px;
 }
